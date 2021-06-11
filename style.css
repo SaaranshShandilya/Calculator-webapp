@@ -1,0 +1,200 @@
+.body {
+    background: firebrick;
+    margin: 0px;
+    padding: 0px;
+}
+
+.head {
+    background: floralwhite;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+    width: 100%;
+}
+
+.main {
+    background-color: gold;
+    margin-top: 100px;
+    text-align: center;
+    width: 700px;
+    margin-left: 430px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 0 5px;
+    position: absolute;
+}
+
+.display {
+    background-color: white;
+    border: solid;
+    position: relative;
+    width: 95%;
+    margin-top: 5px;
+    height: 40px;
+    text-align: end;
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+.button {
+    background-color: red;
+}
+
+.button:hover {
+    background-color: purple;
+}
+
+#one {
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    position: relative;
+    margin-top: 10px;
+    width: 5%;
+    margin-left: 15px;
+}
+
+#two {
+    margin-top: -63px;
+    margin-left: 100px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+    position: relative;
+}
+
+#three {
+    margin-top: -63px;
+    margin-left: 185px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+    position: relative;
+}
+
+#four {
+    margin-top: -64px;
+    margin-left: 270px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+    position: relative;
+}
+
+#five {
+    margin-top: -63px;
+    margin-left: 355px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+    position: relative;
+}
+
+#six {
+    margin-top: -63px;
+    margin-left: 440px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+    position: relative;
+}
+
+#seven {
+    margin-top: -63px;
+    margin-left: 525px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+    position: relative;
+}
+
+#eight {
+    margin-top: -63px;
+    margin-left: 610px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+    position: relative;
+}
+
+#nine {
+    margin-top: 10px;
+    margin-left: 15px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+    position: relative;
+}
+
+#zero {
+    margin-top: -63px;
+    margin-left: 100px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+}
+
+#pl {
+    margin-top: -63px;
+    margin-left: 185px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+}
+
+#min {
+    margin-top: -64px;
+    margin-left: 270px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+}
+
+#mul {
+    margin-top: -63px;
+    margin-left: 355px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+}
+
+#di {
+    margin-top: -63px;
+    margin-left: 440px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 5%;
+}
+
+#eq {
+    margin-top: -63px;
+    margin-left: 525px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 17%;
+}
+
+#clear {
+    margin-top: 15px;
+    margin-left: 100px;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 65%;
+    margin-bottom: 20px;
+}
